@@ -52,9 +52,11 @@
 [<img align="left" alt="Prem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Prem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Prem | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" />][medium]
+[<img align="left" alt="Prem | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/codepen.svg" />][codepen]
 
 [twitter]: https://twitter.com/premkiran97
 [linkedin]: https://linkedin.com/in/premkiran7
 [medium]: https://medium.com/@premkiran7
+[codepen]: https://codepen.io/premkiran7
 
 ###### README Credits: [Amrutha](https://github.com/Amrutha26)</div>
