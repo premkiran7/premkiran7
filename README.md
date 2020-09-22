@@ -26,7 +26,7 @@
 - Currently on [#100daysofcode](https://www.100daysofcode.com/) challenge. Updates on twitter
 - Building my dev portfolio
 - Improving my touch typing skills on [keybr](https://www.keybr.com/profile/v5lk09q) and [10fastfingers](https://10fastfingers.com/user/2169047/)
-- Making my first contribution to open source
+- Contributing to open source, starting with this years [hacktoberfest](https://hacktoberfest.digitalocean.com/)
 </td>
 <td>
 <strong>My current tech stack :computer::</strong>
