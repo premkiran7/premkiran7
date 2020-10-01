@@ -59,4 +59,4 @@
 [medium]: https://medium.com/@premkiran7
 [codepen]: https://codepen.io/premkiran7
 
-###### README Credits: [Amrutha](https://github.com/Amrutha26)</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=premkiran7" alt="premkiran7" /> </p></div>
