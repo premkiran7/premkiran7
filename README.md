@@ -9,12 +9,15 @@
 - On a break to improve my career and life one commit at a time :sweat_smile:
 </td>
 <td>
-<strong>Some devs who inspire me!</strong>
+<strong>Some devs/people who inspire me!</strong>
 <br>
 <br>
 
 - [Florin Pop](https://github.com/florinpop17)
-- [Monica Powell](https://github.com/M0nica) and many more...
+- [Monica Powell](https://github.com/M0nica)
+- [Per Harald Bogren](https://github.com/perborgen)
+- [Nathan Patnam](https://github.com/Nathan-Patnam)
+- [Alfonso Achiaga](https://github.com/Achiaga) and many more...
 </td>
 <tr>
 <td>
